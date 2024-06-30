@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.css{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.menus{
+font-size: 18px;
+font-weight: 400;
+line-height: 21.33px;
+padding-top: 40px ;
+display: flex;
+justify-content: space-between;
+align-items: center;
+list-style: none;
+text-decoration: none;
+}
+#Home{
+    width: 106px;
+}
+.menus li a{
+    color: black;
+    font-family: Teko;
+}
+.menus li a:hover{
+    color: red;
+}
+.abab{
+    width: 361px;
+    height: 299px;
+    top: 1809px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+button{
+    width: 176px;
+height: 58px;
+top: 1515px;
+left: 855px;
+gap: 0px;
+border-radius: 30px 30px 1px 30px;
+opacity: 0px;
+background-color: red;
+color: white;
+border: none;
+}
+button:hover{
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+}
+footer{
+    display: flex;
+    background-color: black;
+   justify-content: space-evenly;
+}
+#tg{
+    color: white;
+}
+#Home2{
+    width: 50px;
+    border-radius: 40px;
+}
+#we{
+    color: white;
+}
+.зфказать h1{
+    width: 530px;
+height: 156px;
+top: -2486px;
+left: -483px;
+gap: 0px;
+opacity: 0px;
+font-family: Teko;
+font-size: 66px;
+font-weight: 500;
+line-height: 78.21px;
+text-align: left;
+margin-top: 100px;
+}
+.dl{
+    display: flex;
+}
+.dl p{
+    font-family: Rubik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+width: 513px;
+height: 66px;
+top: -2307px;
+left: -482px;
+gap: 0px;
+opacity: 0px;
+
+}
